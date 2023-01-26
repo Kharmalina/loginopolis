@@ -11,4 +11,3 @@ seed()
   .finally(() => {
     sequelize.close();
   });
-  
